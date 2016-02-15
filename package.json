@@ -1,0 +1,17 @@
+{
+  "name": "redux-state-props",
+  "version": "0.3.0",
+  "description": "Redux state-props",
+  "keywords":["state","props","functional","react","redux","reducer","hot","reload"],
+  "dependencies": {
+    "react": "^0.14.0",
+    "state-props": "^0.3.0"
+  },
+  "author": {
+    "email": "juan@soulie.com",
+    "name": "Juan Soulie"
+  },
+  "homepage": "https://www.npmjs.com/package/redux-state-props",
+  "main": "lib/index.js",
+  "license": "MIT"
+}
